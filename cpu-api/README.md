@@ -12,7 +12,7 @@ running programs. Read more about it [here](README-generator.md).
 
 
 
-
+2023年11月29日13:18:49 只用GPT3.5辅助做完了作业，没有细看homework里面的python脚本等内容
 
 
 
